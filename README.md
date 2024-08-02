@@ -24,4 +24,4 @@ This project is a simple meme generator built using React. It allows users to ge
 
 ## Loom Video Link
 
-After cloning run `npm install` to install dependencies.
+(https://www.loom.com/share/a4efe1a2788b45e7a29cf231462a5d71?sid=f528c936-0cc5-4cb3-8a02-5fd09d620503)
