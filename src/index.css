@@ -66,7 +66,8 @@ main {
 .meme--image {
   max-width: 100%;
   border-radius: 3px;
-  
+  display: block;
+  margin: 0 auto;
 }
 
 .meme--text {
